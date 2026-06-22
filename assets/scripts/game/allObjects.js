@@ -2780,7 +2780,7 @@ window.allobjects = function() {
   "205": {
     "can_color": true,
     "default_base_color_channel": 1004,
-    "frame": "invis_spike_02_001.png",
+    "frame": "invis_spike_02_glow_001.png",
     "glow_frame": "invis_spike_02_glow_001.png",
     "gridH": 0.46666666865348816,
     "gridW": 1,
